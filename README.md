@@ -7,7 +7,7 @@ https://Phase_2_QGIS_Visualization/screenshots/01_main_pipeline_map.png
 A comprehensive pipeline integrity management system demonstrating full-stack digital transformation from synthetic data generation to AI-powered predictive analytics. This project showcases how traditional infrastructure monitoring evolves into intelligent, proactive systems using geospatial analysis, real-time dashboards, and machine learning.
 
 🚀 Live Project Status
-text
+
 Phase 1 ✅ COMPLETED: Synthetic Data Generation (Python/Colab)
 Phase 2 ✅ COMPLETED: QGIS Spatial Intelligence & Visualization  
 Phase 3 🔄 IN PROGRESS: Power BI Operational Dashboard
@@ -92,13 +92,19 @@ Machine Learning: Isolation Forest, LSTM, Random Forest, Gradient Boosting
 Industry Standards: API, ISO, PHMSA compliance
 
 📁 Repository Structure
-bash
+
 oil-pipeline-leak-detection/
+
 ├── Phase_1_Data_Generation/    # Synthetic data creation
+
 ├── Phase_2_QGIS_Visualization/ # Spatial intelligence (CURRENT)
+
 ├── Phase_3_PowerBI_Dashboard/  # Operational analytics (NEXT)
+
 ├── Phase_4_AI_Prediction/      # Machine learning models
+
 └── Documentation/              # Business & technical docs
+
 🎯 Skills Demonstrated
 Category	Specific Skills
 AI/ML Engineering	Predictive modeling, Feature engineering, Anomaly detection, Time-series analysis
